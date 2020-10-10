@@ -8,8 +8,7 @@ Currently working as a mobile developer.</br>
 [Flutter](https://flutter.dev/) enthusiast and always trying to learn more.</br>
 Recently doing a few online courses on Machine and Deep learning at [Coursera](http://coursera.org/).
 
-The few repo's I have are mostly related to Flutter, and small projects. </br>
-They serve as a proof of concept aswell as an exercise for me.</br>
+My current repo's are all small-scale Flutter projects, which serve as both a proof-of-concept and continuous training.</br>
 Even though they are small, I have plans to improve them in the future. Stay tuned.</br>
 I know I _will_ have time someday. I hope so. 😅 </br>
 Translating my repo's Readme's is a work in progress.</br>
