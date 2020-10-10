@@ -1,4 +1,27 @@
-### Hi there 👋
+### Welcome to my GitHub profile!
+
+I'm Eduardo, a software developer from Brasil.</br>
+Computer and Electronic Engineer at [UFRJ](https://ufrj.br/).</br>
+Currently working as a mobile developer.</br>
+
+
+Flutter enthusiast and always trying to learn more.</br>
+Recently doing a few online courses on Machine and Deep learning at [Coursera](http://coursera.org/).
+
+The few repo's I have are mostly related to Flutter, and small projects. </br>
+They serve as a proof of concept aswell as a exercise for me.</br>
+Even though they are small, I have plans to improve them in the future. Stay tuned.</br>
+I know I _will_ have time someday. I hope so. 😅 </br>
+Translating my repo's Readme's is a work in progress.</br>
+
+You can reach me at:</br>
+![GitHub followers](https://img.shields.io/github/followers/naslausky?label=Follow-me%21&style=social)
+[![Linkedin: Eduardo Naslausky](https://img.shields.io/badge/-naslausky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](http://linkedin.com/in/naslausky)</br>
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/10746978?label=Stack%20OverFlow%20reputation%3A)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/pt.stackoverflow/r/152025?label=Stack%20Overflow(pt)%20reputation%3A)
+
+
+![Visitors:](https://visitor-badge.glitch.me/badge?page_id=naslausky.naslausky)
 
 <!--
 **naslausky/naslausky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
