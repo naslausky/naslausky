@@ -3,7 +3,7 @@
 I'm Eduardo, a software developer from Brazil.</br>
 Computer and Electronic Engineer at [UFRJ](https://ufrj.br/).</br>
 Currently working as a mobile developer.</br>
-<img align='right' src="avatar.gif" width="280">
+[<img align='right' title = "Illustration by Liege Iriart. Check her out!" alt="illustration" src="avatar.gif" width="280">](http://behance.net/liegeiriart)
 
 [Flutter](https://flutter.dev/) enthusiast and always trying to learn more.</br>
 Recently doing a few online courses on Machine and Deep learning at [Coursera](http://coursera.org/).
@@ -12,6 +12,7 @@ My current repo's are all small-scale Flutter projects, which serve as both a pr
 Even though they are small, I have plans to improve them in the future. Stay tuned.</br>
 I know I _will_ have time someday. I hope so. 😅 </br>
 Translating my repo's Readme's is a work in progress.</br>
+
 
 You can reach me at:</br>
 ![GitHub followers](https://img.shields.io/github/followers/naslausky?label=Follow-me%21&style=social)
