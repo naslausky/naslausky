@@ -1,9 +1,10 @@
 ### Welcome to my GitHub profile!
 
+[<img align='right' title = "Illustration by Liege Iriart. Check her out!" alt="illustration" src="avatar.gif" width="280">](http://behance.net/liegeiriart)
+
 I'm Eduardo, a software developer from Brazil.</br>
 Computer and Electronic Engineer at [UFRJ](https://ufrj.br/).</br>
 Currently working as a mobile developer.</br>
-[<img align='right' title = "Illustration by Liege Iriart. Check her out!" alt="illustration" src="avatar.gif" width="280">](http://behance.net/liegeiriart)
 
 [Flutter](https://flutter.dev/) enthusiast and always trying to learn more.</br>
 Recently doing a few online courses on Machine and Deep learning at [Coursera](http://coursera.org/).
