@@ -3,7 +3,7 @@
 I'm Eduardo, a software developer from Brazil.</br>
 Computer and Electronic Engineer at [UFRJ](https://ufrj.br/).</br>
 Currently working as a mobile developer.</br>
-
+<img align='right' src="avatar.gif" width="280">
 
 [Flutter](https://flutter.dev/) enthusiast and always trying to learn more.</br>
 Recently doing a few online courses on Machine and Deep learning at [Coursera](http://coursera.org/).
